@@ -50,10 +50,11 @@ U have two ways:
 1. Open your terminal.
 2. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/mvshv010110/Darling-in-the-Franxx-Hyprland.git
 3. Enter copied repo:
-   cd 
-4. Copy-paste files (remember to check 'em first!) and make ur pc look cool
+   ```bash
+   cd Darling-in-the-Franxx-Hyprland
+5. Copy-paste files (remember to check 'em first!) and make ur pc look cool
 ### 🛠️ 2: Manually
 1. Click green "<>Code" button on top and "Download ZIP"
 2. Extract ZIP
