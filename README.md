@@ -21,9 +21,9 @@ A minimalist Hyprland theme inspired by anime Darling in the Franxx.
 * **Fetch Tool:** Fastfetch
 
 ## 📦 Other stuff u need:
-* **[Caelestia Shell](https://github.com/Caelestia-OS/caelestia-shell)** - Sidebar, app drawer, and that awesome dashboard panel.
-* **Nautilus** - File management. (Tela-circle-icon-theme)
-* **Vivaldi** - Default browser (Easily changeable in `hyprland.conf`).
+* **Caelestia Shell** - Sidebar, app drawer, and that awesome dashboard panel.
+* **Nautilus** - File management. (Tela-circle-icon-theme, should work on other mamagers tho)
+* **Vivaldi** - Default browser (Keybind Super(Win)+B)
 * **Cavasik** - Cava
 * **tty-clock** - Clock
 * **Wofi** - if u want to edit config easily
@@ -35,12 +35,12 @@ A minimalist Hyprland theme inspired by anime Darling in the Franxx.
 # ⚠️ Important Note! 
 ## Please check before applying.
 
-This theme was tailored for **my specific hardware** (NVIDIA/Intel setup). Paths and monitor settings (1920x1080@100Hz) are hardcoded. Review the files to avoid black screens or config errors.
+This theme was tailored for **my specific hardware**. Paths and some settings can be different on different specs, check it to avoid blackscreen or 100 of hyprland comfig errors.
 
 ### 💡 My Advice:
 If you want to use my `.zshrc`, **don't copy the entire file**. Instead, only copy the section below:
 `--- GO AHEAD RÓB CO CHCESZ ---`
-The parts above are system-specific and might break your shell on different distributions!
+The parts above are system-specific and might break your shell on different distros!
 
 ## 📥 Installation
 
