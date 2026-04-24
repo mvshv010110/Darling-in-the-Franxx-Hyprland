@@ -22,11 +22,11 @@ A minimalist Hyprland theme inspired by anime Darling in the Franxx.
 
 ## 📦 Other stuff u need:
 * **Caelestia Shell** - Sidebar, app drawer, and that awesome dashboard panel.
-* **Nautilus** - File management. (Tela-circle-icon-theme, should work on other mamagers tho)
-* **Vivaldi** - Default browser (Keybind Super(Win)+B)
-* **Cavasik** - Cava
-* **tty-clock** - Clock
-* **Wofi** - if u want to edit config easily
+* **Vivaldi** - Default browser (Keybind Super(Win)+B). 
+* **Cavasik** - Cava. 
+* **tty-clock** - Clock. 
+* **Tela-Circle-Red** - Icon theme for folders in files.
+* **Wofi** - if u want to have cool menu with quick access to config.
 > [!TIP]
 > I recommend to copy my zsh, hyprland config is modular, so if u want good-looking list of sections there's alias and script for that
 
